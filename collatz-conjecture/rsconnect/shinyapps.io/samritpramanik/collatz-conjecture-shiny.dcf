@@ -1,0 +1,13 @@
+name: collatz-conjecture-shiny
+title: collatz-conjecture-shiny
+username:
+account: samritpramanik
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7527926
+bundleId: 6476745
+url: https://samritpramanik.shinyapps.io/collatz-conjecture-shiny/
+when: 1667590527.58293
+lastSyncTime: 1667590527.58294
+asMultiple: FALSE
+asStatic: FALSE
